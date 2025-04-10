@@ -1,0 +1,23 @@
+.calculator {
+    width: 300px;
+    padding: 20px;
+    border: 2px solid #ccc;
+    border-radius: 10px;
+    background-color: #f7f7f7;
+}
+
+button {
+    font-size: 1.5em;
+    height: 60px;
+}
+
+input {
+    font-size: 2em;
+    text-align: right;
+    padding: 10px;
+    margin-bottom: 15px;
+}
+
+button:active {
+    background-color: #ddd;
+}
